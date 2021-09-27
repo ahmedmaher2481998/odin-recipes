@@ -1,3 +1,31 @@
-body{
-    background-color: aqua;
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(73, 224, 217,.1 ); 
 }
+.landing{
+    width: 150px;
+    height: auto;
+}
+#title{ 
+    color: rgb(158, 224, 51);
+    font-size: 30px;
+    font-weight: bolder;
+}
+ .rrr a{ 
+    color: #99ce84;
+    text-decoration: none;
+    text-align: center;
+ }
+ .recipe1{
+      text-align: center;
+      background-color: rgb(73, 144, 202,.1);  
+ }
+ h3{ 
+     color: gray;
+     font-weight: bold;
+     font-size: 20px;
+     background-color: rgb(73, 224, 217,.3 );  
+ }
+ li{ 
+     background-color: rgb(126, 78, 172);
+ }
